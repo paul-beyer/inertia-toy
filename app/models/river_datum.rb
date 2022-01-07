@@ -1,0 +1,2 @@
+class RiverDatum < ApplicationRecord
+end

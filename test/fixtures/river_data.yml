@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  state: MyString
+  county: MyString
+  cfs: MyString
+  height: MyString
+  location: MyString
+
+two:
+  name: MyString
+  state: MyString
+  county: MyString
+  cfs: MyString
+  height: MyString
+  location: MyString
