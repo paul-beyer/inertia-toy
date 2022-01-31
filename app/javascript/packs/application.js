@@ -14,6 +14,7 @@
 //
 // const images = require.context('../images', true)
 // const imagePath = (name) => images(name, true)
+// testing commit
 import { App } from '@inertiajs/inertia-react'
 import React from 'react'
 import { render } from 'react-dom'
